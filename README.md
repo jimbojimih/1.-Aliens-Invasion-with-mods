@@ -1,4 +1,4 @@
-# 1.-Aliens-Invasion-with-mods
+# Aliens-Invasion-with-mods
 Сlassic game with mods
 
 The classic game "Space Invader" with mods: two types of alien attacks (laser and bombs),
